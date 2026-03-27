@@ -68,7 +68,7 @@ Dataset is included.
 
 👉 You can download it from:
 
-* Kaggle / Google Drive ()
+* Kaggle / Google Drive (https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
 
 ---
 
@@ -83,7 +83,7 @@ Dataset is included.
 
 ## 📈 Results
 
-* Achieved strong performance in detecting fraudulent transactions
+* Achieved strong performance 94% acccuracy in detecting fraudulent transactions
 * Optimized for minimizing false negatives (critical in fraud detection)
 
 ---
